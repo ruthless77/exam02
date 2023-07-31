@@ -1,0 +1,22 @@
+.bg-image-1 {
+    background-image: url("../05/slide_03.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: auto;
+}
+
+.bg-image-2 {
+    background-image: url("../05/what-we-do-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+.bg-image-3 {
+    background-image: url("../05/blog-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
